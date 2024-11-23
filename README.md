@@ -64,4 +64,6 @@ fetch weather data. To use the app:
 Feel free to fork the repository and submit pull requests. Contributions are
 always welcome!
 
+## Result
+
 ![Results](print_screen.png)
